@@ -16,7 +16,7 @@ text-align: center;
   position: relative;
   
 }
-#SmallBox {
+#SmallBox1 {
   border: 1px solid black;
   background-color: palevioletred;
   width: 150px;
@@ -28,7 +28,30 @@ text-align: center;
     top: 0px;
     right: 0px;
 }
-
+#SmallBox2 {
+  border: 1px solid black;
+  background-color: yellow;
+  width: 150px;
+  height: 15%;
+  font-family: Arial;
+    text-align: center;
+    color: black;
+  position: absolute;
+    top: 0px;
+    right: 0px;
+}
+#SmallBox3 {
+  border: 1px solid black;
+  background-color: blue;
+  width: 150px;
+  height: 15%;
+  font-family: Arial;
+    text-align: center;
+    color: white;
+  position: absolute;
+    top: 0px;
+    right: 0px;
+}
 #text{
     font-family: Helvetica;
     color: black;
